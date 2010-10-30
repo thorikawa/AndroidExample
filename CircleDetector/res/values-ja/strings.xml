@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_circle">円じゃない！</string>
+    <string name="is_circle">円だ！</string>
+    <string name="resume">再開</string>
+    <string name="pause">停止</string>
+	<string name="desc">端末の円運動を検知すると、音が鳴るよ！\nただし等速な円運動に限る！</string>
+	<string name="map_title">加速度センサーが検知した値の分布</string>
+</resources>

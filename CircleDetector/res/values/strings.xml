@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CircleDetector</string>
+    <string name="not_circle">not circle</string>
+    <string name="is_circle">is circle!</string>
+    <string name="resume">Resume</string>
+    <string name="pause">Pause</string>
+	<string name="desc">If detects the device moving in a circle (uniform circular motion only), this app will sound the bell!</string>
+	<string name="map_title">distribution of accelerometer\'s values</string>
+</resources>
