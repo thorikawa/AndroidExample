@@ -1,0 +1,2087 @@
+2010/11/27 3:09:10 - NOTE : Start Processing Annotations
+2010/11/27 3:09:10 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:09:10 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:09:10 - NOTE : Found 1 classes to mock
+2010/11/27 3:09:10 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:09:10 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:09:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:09:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:09:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:09:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:09:10 - NOTE : Finished Processing Mocks
+2010/11/27 3:10:00 - NOTE : Start Processing Annotations
+2010/11/27 3:10:00 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:10:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:00 - NOTE : Found 1 classes to mock
+2010/11/27 3:10:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:00 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:10:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:00 - NOTE : Finished Processing Mocks
+2010/11/27 3:10:06 - NOTE : Start Processing Annotations
+2010/11/27 3:10:06 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:10:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:06 - NOTE : Found 1 classes to mock
+2010/11/27 3:10:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:06 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:10:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:06 - NOTE : Finished Processing Mocks
+2010/11/27 3:10:13 - NOTE : Start Processing Annotations
+2010/11/27 3:10:13 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:10:13 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:13 - NOTE : Found 1 classes to mock
+2010/11/27 3:10:13 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:13 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:10:13 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:13 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:13 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:13 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:13 - NOTE : Finished Processing Mocks
+2010/11/27 3:10:20 - NOTE : Start Processing Annotations
+2010/11/27 3:10:20 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:10:20 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:20 - NOTE : Found 1 classes to mock
+2010/11/27 3:10:20 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:20 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:10:20 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:20 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:20 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:20 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:20 - NOTE : Finished Processing Mocks
+2010/11/27 3:10:24 - NOTE : Start Processing Annotations
+2010/11/27 3:10:24 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:10:24 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:24 - NOTE : Found 1 classes to mock
+2010/11/27 3:10:24 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:24 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:10:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:24 - NOTE : Finished Processing Mocks
+2010/11/27 3:10:32 - NOTE : Start Processing Annotations
+2010/11/27 3:10:32 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 3:10:32 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:32 - NOTE : Found 1 classes to mock
+2010/11/27 3:10:32 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 3:10:32 - NOTE : Found 2 mocked classes to save
+2010/11/27 3:10:32 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:32 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 3:10:32 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:32 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 3:10:32 - NOTE : Finished Processing Mocks
+2010/11/27 11:02:09 - NOTE : Start Processing Annotations
+2010/11/27 11:02:09 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:02:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:09 - NOTE : Found 1 classes to mock
+2010/11/27 11:02:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:09 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:02:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:09 - NOTE : Finished Processing Mocks
+2010/11/27 11:02:30 - NOTE : Start Processing Annotations
+2010/11/27 11:02:30 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:02:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:30 - NOTE : Found 1 classes to mock
+2010/11/27 11:02:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:02:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:30 - NOTE : Finished Processing Mocks
+2010/11/27 11:02:34 - NOTE : Start Processing Annotations
+2010/11/27 11:02:34 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:02:34 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:34 - NOTE : Found 1 classes to mock
+2010/11/27 11:02:34 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:34 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:02:34 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:34 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:34 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:34 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:34 - NOTE : Finished Processing Mocks
+2010/11/27 11:02:48 - NOTE : Start Processing Annotations
+2010/11/27 11:02:48 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:02:48 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:48 - NOTE : Found 1 classes to mock
+2010/11/27 11:02:48 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:48 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:02:48 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:48 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:48 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:48 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:48 - NOTE : Finished Processing Mocks
+2010/11/27 11:02:52 - NOTE : Start Processing Annotations
+2010/11/27 11:02:52 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:02:52 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:52 - NOTE : Found 1 classes to mock
+2010/11/27 11:02:52 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:02:52 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:02:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:02:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:02:52 - NOTE : Finished Processing Mocks
+2010/11/27 11:03:22 - NOTE : Start Processing Annotations
+2010/11/27 11:03:22 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:03:22 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:03:22 - NOTE : Found 1 classes to mock
+2010/11/27 11:03:22 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:03:22 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:03:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:03:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:03:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:03:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:03:22 - NOTE : Finished Processing Mocks
+2010/11/27 11:03:27 - NOTE : Start Processing Annotations
+2010/11/27 11:03:27 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:03:27 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:03:27 - NOTE : Found 1 classes to mock
+2010/11/27 11:03:27 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:03:27 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:03:27 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:03:27 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:03:27 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:03:27 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:03:27 - NOTE : Finished Processing Mocks
+2010/11/27 11:04:46 - NOTE : Start Processing Annotations
+2010/11/27 11:04:46 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:04:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:04:46 - NOTE : Found 1 classes to mock
+2010/11/27 11:04:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:04:46 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:04:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:04:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:04:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:04:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:04:46 - NOTE : Finished Processing Mocks
+2010/11/27 11:04:57 - NOTE : Start Processing Annotations
+2010/11/27 11:04:57 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:04:57 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:04:57 - NOTE : Found 1 classes to mock
+2010/11/27 11:04:57 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:04:57 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:04:57 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:04:57 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:04:57 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:04:57 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:04:57 - NOTE : Finished Processing Mocks
+2010/11/27 11:05:17 - NOTE : Start Processing Annotations
+2010/11/27 11:05:17 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:05:17 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:17 - NOTE : Found 1 classes to mock
+2010/11/27 11:05:17 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:17 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:05:17 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:17 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:17 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:17 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:17 - NOTE : Finished Processing Mocks
+2010/11/27 11:05:21 - NOTE : Start Processing Annotations
+2010/11/27 11:05:21 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:05:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:21 - NOTE : Found 1 classes to mock
+2010/11/27 11:05:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:21 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:05:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:21 - NOTE : Finished Processing Mocks
+2010/11/27 11:05:42 - NOTE : Start Processing Annotations
+2010/11/27 11:05:42 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:05:42 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:42 - NOTE : Found 1 classes to mock
+2010/11/27 11:05:42 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:42 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:05:42 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:42 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:42 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:42 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:42 - NOTE : Finished Processing Mocks
+2010/11/27 11:05:49 - NOTE : Start Processing Annotations
+2010/11/27 11:05:49 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:05:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:49 - NOTE : Found 1 classes to mock
+2010/11/27 11:05:49 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:05:49 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:05:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:05:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:05:49 - NOTE : Finished Processing Mocks
+2010/11/27 11:06:45 - NOTE : Start Processing Annotations
+2010/11/27 11:06:45 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:06:45 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:06:45 - NOTE : Found 1 classes to mock
+2010/11/27 11:06:45 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:06:45 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:06:45 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:06:45 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:06:45 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:06:45 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:06:45 - NOTE : Finished Processing Mocks
+2010/11/27 11:06:53 - NOTE : Start Processing Annotations
+2010/11/27 11:06:53 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:06:53 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:06:53 - NOTE : Found 1 classes to mock
+2010/11/27 11:06:53 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:06:53 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:06:53 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:06:53 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:06:53 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:06:53 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:06:53 - NOTE : Finished Processing Mocks
+2010/11/27 11:07:06 - NOTE : Start Processing Annotations
+2010/11/27 11:07:06 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:07:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:06 - NOTE : Found 1 classes to mock
+2010/11/27 11:07:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:06 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:07:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:06 - NOTE : Finished Processing Mocks
+2010/11/27 11:07:20 - NOTE : Start Processing Annotations
+2010/11/27 11:07:20 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:07:20 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:20 - NOTE : Found 1 classes to mock
+2010/11/27 11:07:20 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:20 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:07:20 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:20 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:20 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:20 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:20 - NOTE : Finished Processing Mocks
+2010/11/27 11:07:39 - NOTE : Start Processing Annotations
+2010/11/27 11:07:39 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:07:39 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:39 - NOTE : Found 1 classes to mock
+2010/11/27 11:07:39 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:39 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:07:39 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:39 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:39 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:39 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:39 - NOTE : Finished Processing Mocks
+2010/11/27 11:07:58 - NOTE : Start Processing Annotations
+2010/11/27 11:07:58 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:07:58 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:58 - NOTE : Found 1 classes to mock
+2010/11/27 11:07:58 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:07:58 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:07:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:07:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:07:58 - NOTE : Finished Processing Mocks
+2010/11/27 11:08:04 - NOTE : Start Processing Annotations
+2010/11/27 11:08:04 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:08:04 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:04 - NOTE : Found 1 classes to mock
+2010/11/27 11:08:04 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:04 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:08:04 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:04 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:04 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:04 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:04 - NOTE : Finished Processing Mocks
+2010/11/27 11:08:09 - NOTE : Start Processing Annotations
+2010/11/27 11:08:09 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:08:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:09 - NOTE : Found 1 classes to mock
+2010/11/27 11:08:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:09 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:08:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:09 - NOTE : Finished Processing Mocks
+2010/11/27 11:08:14 - NOTE : Start Processing Annotations
+2010/11/27 11:08:14 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:08:14 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:14 - NOTE : Found 1 classes to mock
+2010/11/27 11:08:14 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:14 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:08:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:14 - NOTE : Finished Processing Mocks
+2010/11/27 11:08:26 - NOTE : Start Processing Annotations
+2010/11/27 11:08:26 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:08:26 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:26 - NOTE : Found 1 classes to mock
+2010/11/27 11:08:26 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:26 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:08:26 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:26 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:26 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:26 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:26 - NOTE : Finished Processing Mocks
+2010/11/27 11:08:33 - NOTE : Start Processing Annotations
+2010/11/27 11:08:33 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:08:33 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:33 - NOTE : Found 1 classes to mock
+2010/11/27 11:08:33 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:33 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:08:33 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:33 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:33 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:33 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:33 - NOTE : Finished Processing Mocks
+2010/11/27 11:08:39 - NOTE : Start Processing Annotations
+2010/11/27 11:08:39 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:08:39 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:39 - NOTE : Found 1 classes to mock
+2010/11/27 11:08:39 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:08:39 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:08:39 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:39 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:08:39 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:39 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:08:39 - NOTE : Finished Processing Mocks
+2010/11/27 11:09:35 - NOTE : Start Processing Annotations
+2010/11/27 11:09:35 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:09:35 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:09:35 - NOTE : Found 1 classes to mock
+2010/11/27 11:09:35 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:09:35 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:09:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:09:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:09:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:09:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:09:35 - NOTE : Finished Processing Mocks
+2010/11/27 11:10:19 - NOTE : Start Processing Annotations
+2010/11/27 11:10:19 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:10:19 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:10:19 - NOTE : Found 1 classes to mock
+2010/11/27 11:10:19 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:10:19 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:10:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:10:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:10:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:10:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:10:19 - NOTE : Finished Processing Mocks
+2010/11/27 11:11:05 - NOTE : Start Processing Annotations
+2010/11/27 11:11:05 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:11:05 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:11:05 - NOTE : Found 1 classes to mock
+2010/11/27 11:11:05 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:11:05 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:11:05 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:11:05 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:11:05 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:11:05 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:11:05 - NOTE : Finished Processing Mocks
+2010/11/27 11:12:39 - NOTE : Start Processing Annotations
+2010/11/27 11:12:39 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:12:39 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:12:39 - NOTE : Found 1 classes to mock
+2010/11/27 11:12:39 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:12:39 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:12:39 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:12:39 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:12:39 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:12:39 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:12:39 - NOTE : Finished Processing Mocks
+2010/11/27 11:12:51 - NOTE : Start Processing Annotations
+2010/11/27 11:12:51 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:12:51 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:12:51 - NOTE : Found 1 classes to mock
+2010/11/27 11:12:51 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:12:51 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:12:51 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:12:51 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:12:51 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:12:51 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:12:51 - NOTE : Finished Processing Mocks
+2010/11/27 11:13:22 - NOTE : Start Processing Annotations
+2010/11/27 11:13:22 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:13:22 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:13:22 - NOTE : Found 1 classes to mock
+2010/11/27 11:13:22 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:13:22 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:13:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:13:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:13:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:13:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:13:22 - NOTE : Finished Processing Mocks
+2010/11/27 11:13:29 - NOTE : Start Processing Annotations
+2010/11/27 11:13:29 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:13:29 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:13:29 - NOTE : Found 1 classes to mock
+2010/11/27 11:13:29 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:13:29 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:13:29 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:13:29 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:13:29 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:13:29 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:13:29 - NOTE : Finished Processing Mocks
+2010/11/27 11:14:01 - NOTE : Start Processing Annotations
+2010/11/27 11:14:01 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:14:01 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:14:01 - NOTE : Found 1 classes to mock
+2010/11/27 11:14:01 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:14:01 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:14:01 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:14:01 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:14:01 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:14:01 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:14:01 - NOTE : Finished Processing Mocks
+2010/11/27 11:22:52 - NOTE : Start Processing Annotations
+2010/11/27 11:22:52 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:22:52 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:22:52 - NOTE : Found 1 classes to mock
+2010/11/27 11:22:52 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:22:52 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:22:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:22:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:22:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:22:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:22:52 - NOTE : Finished Processing Mocks
+2010/11/27 11:23:17 - NOTE : Start Processing Annotations
+2010/11/27 11:23:17 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:23:17 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:17 - NOTE : Found 1 classes to mock
+2010/11/27 11:23:17 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:17 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:23:17 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:17 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:17 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:17 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:17 - NOTE : Finished Processing Mocks
+2010/11/27 11:23:24 - NOTE : Start Processing Annotations
+2010/11/27 11:23:24 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:23:24 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:24 - NOTE : Found 1 classes to mock
+2010/11/27 11:23:24 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:24 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:23:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:24 - NOTE : Finished Processing Mocks
+2010/11/27 11:23:32 - NOTE : Start Processing Annotations
+2010/11/27 11:23:32 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:23:32 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:32 - NOTE : Found 1 classes to mock
+2010/11/27 11:23:32 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:32 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:23:32 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:32 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:32 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:32 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:32 - NOTE : Finished Processing Mocks
+2010/11/27 11:23:58 - NOTE : Start Processing Annotations
+2010/11/27 11:23:58 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:23:58 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:58 - NOTE : Found 1 classes to mock
+2010/11/27 11:23:58 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:23:58 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:23:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:23:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:23:58 - NOTE : Finished Processing Mocks
+2010/11/27 11:24:20 - NOTE : Start Processing Annotations
+2010/11/27 11:24:20 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:24:20 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:20 - NOTE : Found 1 classes to mock
+2010/11/27 11:24:20 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:20 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:24:20 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:20 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:20 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:20 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:20 - NOTE : Finished Processing Mocks
+2010/11/27 11:24:30 - NOTE : Start Processing Annotations
+2010/11/27 11:24:30 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:24:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:30 - NOTE : Found 1 classes to mock
+2010/11/27 11:24:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:24:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:30 - NOTE : Finished Processing Mocks
+2010/11/27 11:24:41 - NOTE : Start Processing Annotations
+2010/11/27 11:24:41 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:24:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:41 - NOTE : Found 1 classes to mock
+2010/11/27 11:24:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:41 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:24:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:41 - NOTE : Finished Processing Mocks
+2010/11/27 11:24:54 - NOTE : Start Processing Annotations
+2010/11/27 11:24:54 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:24:54 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:54 - NOTE : Found 1 classes to mock
+2010/11/27 11:24:54 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:24:54 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:24:54 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:54 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:24:54 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:54 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:24:54 - NOTE : Finished Processing Mocks
+2010/11/27 11:25:09 - NOTE : Start Processing Annotations
+2010/11/27 11:25:09 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:25:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:25:09 - NOTE : Found 1 classes to mock
+2010/11/27 11:25:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:25:09 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:25:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:25:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:25:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:25:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:25:09 - NOTE : Finished Processing Mocks
+2010/11/27 11:25:22 - NOTE : Start Processing Annotations
+2010/11/27 11:25:22 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:25:22 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:25:22 - NOTE : Found 1 classes to mock
+2010/11/27 11:25:22 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:25:22 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:25:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:25:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:25:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:25:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:25:22 - NOTE : Finished Processing Mocks
+2010/11/27 11:25:57 - NOTE : Start Processing Annotations
+2010/11/27 11:25:57 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:25:57 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:25:57 - NOTE : Found 1 classes to mock
+2010/11/27 11:25:57 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:25:57 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:25:57 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:25:57 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:25:57 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:25:57 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:25:57 - NOTE : Finished Processing Mocks
+2010/11/27 11:26:18 - NOTE : Start Processing Annotations
+2010/11/27 11:26:18 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:26:18 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:26:18 - NOTE : Found 1 classes to mock
+2010/11/27 11:26:18 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:26:18 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:26:18 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:26:18 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:26:18 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:26:18 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:26:18 - NOTE : Finished Processing Mocks
+2010/11/27 11:26:21 - NOTE : Start Processing Annotations
+2010/11/27 11:26:21 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:26:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:26:21 - NOTE : Found 1 classes to mock
+2010/11/27 11:26:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:26:21 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:26:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:26:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:26:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:26:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:26:21 - NOTE : Finished Processing Mocks
+2010/11/27 11:26:30 - NOTE : Start Processing Annotations
+2010/11/27 11:26:30 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:26:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:26:30 - NOTE : Found 1 classes to mock
+2010/11/27 11:26:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:26:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:26:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:26:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:26:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:26:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:26:30 - NOTE : Finished Processing Mocks
+2010/11/27 11:27:04 - NOTE : Start Processing Annotations
+2010/11/27 11:27:04 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:27:04 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:27:04 - NOTE : Found 1 classes to mock
+2010/11/27 11:27:04 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:27:04 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:27:04 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:27:04 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:27:04 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:27:04 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:27:04 - NOTE : Finished Processing Mocks
+2010/11/27 11:28:10 - NOTE : Start Processing Annotations
+2010/11/27 11:28:10 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:28:10 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:10 - NOTE : Found 1 classes to mock
+2010/11/27 11:28:10 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:10 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:28:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:10 - NOTE : Finished Processing Mocks
+2010/11/27 11:28:19 - NOTE : Start Processing Annotations
+2010/11/27 11:28:19 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:28:19 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:19 - NOTE : Found 1 classes to mock
+2010/11/27 11:28:19 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:19 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:28:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:19 - NOTE : Finished Processing Mocks
+2010/11/27 11:28:27 - NOTE : Start Processing Annotations
+2010/11/27 11:28:27 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:28:27 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:27 - NOTE : Found 1 classes to mock
+2010/11/27 11:28:27 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:27 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:28:27 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:27 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:27 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:27 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:27 - NOTE : Finished Processing Mocks
+2010/11/27 11:28:35 - NOTE : Start Processing Annotations
+2010/11/27 11:28:35 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:28:35 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:35 - NOTE : Found 1 classes to mock
+2010/11/27 11:28:35 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:35 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:28:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:35 - NOTE : Finished Processing Mocks
+2010/11/27 11:28:45 - NOTE : Start Processing Annotations
+2010/11/27 11:28:45 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:28:45 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:45 - NOTE : Found 1 classes to mock
+2010/11/27 11:28:45 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:45 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:28:45 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:45 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:45 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:45 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:45 - NOTE : Finished Processing Mocks
+2010/11/27 11:28:52 - NOTE : Start Processing Annotations
+2010/11/27 11:28:52 - NOTE : Processing [public void testShouldBeVvakame() ]
+2010/11/27 11:28:52 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:52 - NOTE : Found 1 classes to mock
+2010/11/27 11:28:52 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:28:52 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:28:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:28:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:28:52 - NOTE : Finished Processing Mocks
+2010/11/27 11:29:32 - NOTE : Start Processing Annotations
+2010/11/27 11:29:32 - NOTE : Processing [public void testMock() ]
+2010/11/27 11:29:32 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:29:32 - NOTE : Found 1 classes to mock
+2010/11/27 11:29:32 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:29:32 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:29:32 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:29:32 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:29:32 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:29:32 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:29:32 - NOTE : Finished Processing Mocks
+2010/11/27 11:29:41 - NOTE : Start Processing Annotations
+2010/11/27 11:29:41 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:29:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:29:41 - NOTE : Found 1 classes to mock
+2010/11/27 11:29:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:29:41 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:29:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:29:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:29:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:29:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:29:41 - NOTE : Finished Processing Mocks
+2010/11/27 11:30:30 - NOTE : Start Processing Annotations
+2010/11/27 11:30:30 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:30:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:30:30 - NOTE : Found 1 classes to mock
+2010/11/27 11:30:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:30:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:30:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:30:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:30:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:30:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:30:30 - NOTE : Finished Processing Mocks
+2010/11/27 11:36:58 - NOTE : Start Processing Annotations
+2010/11/27 11:36:58 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:36:58 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:36:58 - NOTE : Found 1 classes to mock
+2010/11/27 11:36:58 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:36:58 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:36:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:36:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:36:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:36:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:36:58 - NOTE : Finished Processing Mocks
+2010/11/27 11:37:01 - NOTE : Start Processing Annotations
+2010/11/27 11:37:01 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:37:01 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:02 - NOTE : Found 1 classes to mock
+2010/11/27 11:37:02 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:02 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:37:02 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:02 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:02 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:02 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:02 - NOTE : Finished Processing Mocks
+2010/11/27 11:37:05 - NOTE : Start Processing Annotations
+2010/11/27 11:37:05 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:37:05 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:05 - NOTE : Found 1 classes to mock
+2010/11/27 11:37:05 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:05 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:37:05 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:05 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:05 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:05 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:05 - NOTE : Finished Processing Mocks
+2010/11/27 11:37:10 - NOTE : Start Processing Annotations
+2010/11/27 11:37:10 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:37:10 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:10 - NOTE : Found 1 classes to mock
+2010/11/27 11:37:10 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:10 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:37:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:10 - NOTE : Finished Processing Mocks
+2010/11/27 11:37:14 - NOTE : Start Processing Annotations
+2010/11/27 11:37:14 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:37:14 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:14 - NOTE : Found 1 classes to mock
+2010/11/27 11:37:14 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:37:14 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:37:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:37:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:37:14 - NOTE : Finished Processing Mocks
+2010/11/27 11:39:00 - NOTE : Start Processing Annotations
+2010/11/27 11:39:00 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:39:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:39:00 - NOTE : Found 1 classes to mock
+2010/11/27 11:39:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:39:00 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:39:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:39:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:39:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:39:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:39:00 - NOTE : Finished Processing Mocks
+2010/11/27 11:39:07 - NOTE : Start Processing Annotations
+2010/11/27 11:39:07 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:39:07 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:39:07 - NOTE : Found 1 classes to mock
+2010/11/27 11:39:07 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:39:07 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:39:07 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:39:07 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:39:07 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:39:07 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:39:07 - NOTE : Finished Processing Mocks
+2010/11/27 11:39:57 - NOTE : Start Processing Annotations
+2010/11/27 11:39:57 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:39:57 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:39:57 - NOTE : Found 1 classes to mock
+2010/11/27 11:39:57 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:39:57 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:39:57 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:39:57 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:39:57 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:39:57 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:39:57 - NOTE : Finished Processing Mocks
+2010/11/27 11:40:14 - NOTE : Start Processing Annotations
+2010/11/27 11:40:14 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:40:14 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:40:14 - NOTE : Found 1 classes to mock
+2010/11/27 11:40:14 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:40:14 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:40:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:40:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:40:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:40:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:40:14 - NOTE : Finished Processing Mocks
+2010/11/27 11:40:21 - NOTE : Start Processing Annotations
+2010/11/27 11:40:21 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:40:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:40:21 - NOTE : Found 1 classes to mock
+2010/11/27 11:40:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:40:21 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:40:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:40:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:40:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:40:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:40:21 - NOTE : Finished Processing Mocks
+2010/11/27 11:40:38 - NOTE : Start Processing Annotations
+2010/11/27 11:40:38 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:40:38 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:40:38 - NOTE : Found 1 classes to mock
+2010/11/27 11:40:38 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:40:38 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:40:38 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:40:38 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:40:38 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:40:38 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:40:38 - NOTE : Finished Processing Mocks
+2010/11/27 11:41:23 - NOTE : Start Processing Annotations
+2010/11/27 11:41:23 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:41:23 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:23 - NOTE : Found 1 classes to mock
+2010/11/27 11:41:23 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:23 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:41:23 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:23 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:23 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:23 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:23 - NOTE : Finished Processing Mocks
+2010/11/27 11:41:27 - NOTE : Start Processing Annotations
+2010/11/27 11:41:27 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:41:27 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:27 - NOTE : Found 1 classes to mock
+2010/11/27 11:41:27 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:27 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:41:27 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:27 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:27 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:27 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:27 - NOTE : Finished Processing Mocks
+2010/11/27 11:41:38 - NOTE : Start Processing Annotations
+2010/11/27 11:41:38 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:41:38 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:38 - NOTE : Found 1 classes to mock
+2010/11/27 11:41:38 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:38 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:41:38 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:38 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:38 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:38 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:38 - NOTE : Finished Processing Mocks
+2010/11/27 11:41:44 - NOTE : Start Processing Annotations
+2010/11/27 11:41:44 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:41:44 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:44 - NOTE : Found 1 classes to mock
+2010/11/27 11:41:44 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:44 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:41:44 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:44 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:44 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:44 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:44 - NOTE : Finished Processing Mocks
+2010/11/27 11:41:49 - NOTE : Start Processing Annotations
+2010/11/27 11:41:49 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:41:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:49 - NOTE : Found 1 classes to mock
+2010/11/27 11:41:49 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:41:49 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:41:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:41:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:41:49 - NOTE : Finished Processing Mocks
+2010/11/27 11:42:28 - NOTE : Start Processing Annotations
+2010/11/27 11:42:28 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:42:28 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:42:28 - NOTE : Found 1 classes to mock
+2010/11/27 11:42:28 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:42:28 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:42:28 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:42:28 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:42:28 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:42:28 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:42:28 - NOTE : Finished Processing Mocks
+2010/11/27 11:43:04 - NOTE : Start Processing Annotations
+2010/11/27 11:43:04 - NOTE : Processing [public void testMockDroid() ]
+2010/11/27 11:43:04 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:04 - NOTE : Found 1 classes to mock
+2010/11/27 11:43:04 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:04 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:43:04 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:04 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:04 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:04 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:04 - NOTE : Finished Processing Mocks
+2010/11/27 11:43:35 - NOTE : Start Processing Annotations
+2010/11/27 11:43:35 - NOTE : Processing [public void testMockDroid1() ]
+2010/11/27 11:43:35 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:35 - NOTE : Found 1 classes to mock
+2010/11/27 11:43:35 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:35 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:43:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:35 - NOTE : Finished Processing Mocks
+2010/11/27 11:43:45 - NOTE : Start Processing Annotations
+2010/11/27 11:43:45 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid1() ]
+2010/11/27 11:43:45 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:45 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:45 - NOTE : Found 2 classes to mock
+2010/11/27 11:43:45 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:45 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:45 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:43:45 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:45 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:45 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:45 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:45 - NOTE : Finished Processing Mocks
+2010/11/27 11:43:49 - NOTE : Start Processing Annotations
+2010/11/27 11:43:49 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:43:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:49 - NOTE : Found 2 classes to mock
+2010/11/27 11:43:49 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:49 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:49 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:43:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:49 - NOTE : Finished Processing Mocks
+2010/11/27 11:43:58 - NOTE : Start Processing Annotations
+2010/11/27 11:43:58 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:43:58 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:58 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:58 - NOTE : Found 2 classes to mock
+2010/11/27 11:43:58 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:58 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:43:58 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:43:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:43:58 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:58 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:43:58 - NOTE : Finished Processing Mocks
+2010/11/27 11:44:06 - NOTE : Start Processing Annotations
+2010/11/27 11:44:06 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:44:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:06 - NOTE : Found 2 classes to mock
+2010/11/27 11:44:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:06 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:44:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:06 - NOTE : Finished Processing Mocks
+2010/11/27 11:44:11 - NOTE : Start Processing Annotations
+2010/11/27 11:44:11 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:44:11 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:11 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:11 - NOTE : Found 2 classes to mock
+2010/11/27 11:44:11 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:11 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:11 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:44:11 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:11 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:11 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:11 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:11 - NOTE : Finished Processing Mocks
+2010/11/27 11:44:46 - NOTE : Start Processing Annotations
+2010/11/27 11:44:46 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:44:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:46 - NOTE : Found 2 classes to mock
+2010/11/27 11:44:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:46 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:44:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:46 - NOTE : Finished Processing Mocks
+2010/11/27 11:44:49 - NOTE : Start Processing Annotations
+2010/11/27 11:44:49 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:44:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:49 - NOTE : Found 2 classes to mock
+2010/11/27 11:44:49 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:49 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:49 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:44:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:49 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:49 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:49 - NOTE : Finished Processing Mocks
+2010/11/27 11:44:52 - NOTE : Start Processing Annotations
+2010/11/27 11:44:52 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:44:52 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:52 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:52 - NOTE : Found 2 classes to mock
+2010/11/27 11:44:52 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:52 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:44:52 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:44:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:44:52 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:52 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:44:52 - NOTE : Finished Processing Mocks
+2010/11/27 11:45:14 - NOTE : Start Processing Annotations
+2010/11/27 11:45:14 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:45:14 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:45:14 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:45:14 - NOTE : Found 2 classes to mock
+2010/11/27 11:45:14 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:45:14 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:45:14 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:45:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:45:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:45:14 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:45:14 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:45:14 - NOTE : Finished Processing Mocks
+2010/11/27 11:46:09 - NOTE : Start Processing Annotations
+2010/11/27 11:46:09 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:46:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:09 - NOTE : Found 2 classes to mock
+2010/11/27 11:46:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:09 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:46:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:46:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:46:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:46:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:46:09 - NOTE : Finished Processing Mocks
+2010/11/27 11:46:30 - NOTE : Start Processing Annotations
+2010/11/27 11:46:30 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:46:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:30 - NOTE : Found 2 classes to mock
+2010/11/27 11:46:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:46:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:46:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:46:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:46:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:46:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:46:30 - NOTE : Finished Processing Mocks
+2010/11/27 11:47:30 - NOTE : Start Processing Annotations
+2010/11/27 11:47:30 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:47:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:47:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:47:30 - NOTE : Found 2 classes to mock
+2010/11/27 11:47:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:47:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:47:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:47:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:47:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:47:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:47:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:47:30 - NOTE : Finished Processing Mocks
+2010/11/27 11:48:55 - NOTE : Start Processing Annotations
+2010/11/27 11:48:55 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:48:55 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:48:55 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:48:55 - NOTE : Found 2 classes to mock
+2010/11/27 11:48:55 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:48:55 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:48:55 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:48:55 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:48:55 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:48:55 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:48:55 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:48:55 - NOTE : Finished Processing Mocks
+2010/11/27 11:50:16 - NOTE : Start Processing Annotations
+2010/11/27 11:50:16 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:50:16 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:50:16 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:50:16 - NOTE : Found 2 classes to mock
+2010/11/27 11:50:16 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:50:16 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:50:16 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:50:16 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:50:16 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:50:16 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:50:16 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:50:16 - NOTE : Finished Processing Mocks
+2010/11/27 11:51:46 - NOTE : Start Processing Annotations
+2010/11/27 11:51:46 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:51:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:51:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:51:46 - NOTE : Found 2 classes to mock
+2010/11/27 11:51:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:51:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:51:46 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:51:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:51:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:51:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:51:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:51:46 - NOTE : Finished Processing Mocks
+2010/11/27 11:54:51 - NOTE : Start Processing Annotations
+2010/11/27 11:54:51 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:54:51 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:54:51 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:54:51 - NOTE : Found 2 classes to mock
+2010/11/27 11:54:51 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:54:51 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:54:51 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:54:51 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:54:51 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:54:51 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:54:51 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:54:51 - NOTE : Finished Processing Mocks
+2010/11/27 11:55:00 - NOTE : Start Processing Annotations
+2010/11/27 11:55:00 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:55:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:00 - NOTE : Found 2 classes to mock
+2010/11/27 11:55:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:00 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:55:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:55:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:55:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:55:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:55:00 - NOTE : Finished Processing Mocks
+2010/11/27 11:55:17 - NOTE : Start Processing Annotations
+2010/11/27 11:55:17 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:55:17 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:17 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:17 - NOTE : Found 2 classes to mock
+2010/11/27 11:55:17 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:17 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:17 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:55:17 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:55:17 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:55:17 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:55:17 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:55:17 - NOTE : Finished Processing Mocks
+2010/11/27 11:55:21 - NOTE : Start Processing Annotations
+2010/11/27 11:55:21 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:55:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:21 - NOTE : Found 2 classes to mock
+2010/11/27 11:55:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:55:21 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:55:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:55:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:55:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:55:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:55:21 - NOTE : Finished Processing Mocks
+2010/11/27 11:58:19 - NOTE : Start Processing Annotations
+2010/11/27 11:58:19 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 11:58:19 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:19 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:19 - NOTE : Found 2 classes to mock
+2010/11/27 11:58:19 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:19 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:19 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:58:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:58:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:58:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:58:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:58:19 - NOTE : Finished Processing Mocks
+2010/11/27 11:58:41 - NOTE : Start Processing Annotations
+2010/11/27 11:58:41 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 11:58:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:41 - NOTE : Found 2 classes to mock
+2010/11/27 11:58:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 11:58:41 - NOTE : Found 2 mocked classes to save
+2010/11/27 11:58:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:58:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 11:58:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:58:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 11:58:41 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:11 - NOTE : Start Processing Annotations
+2010/11/27 12:01:11 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:01:11 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:11 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:11 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:11 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:11 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:11 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:11 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:11 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:11 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:11 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:11 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:16 - NOTE : Start Processing Annotations
+2010/11/27 12:01:16 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:01:16 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:16 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:16 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:16 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:16 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:16 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:16 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:16 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:16 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:16 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:16 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:23 - NOTE : Start Processing Annotations
+2010/11/27 12:01:23 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:01:23 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:23 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:23 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:23 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:23 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:23 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:23 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:23 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:23 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:23 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:23 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:35 - NOTE : Start Processing Annotations
+2010/11/27 12:01:35 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:01:35 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:35 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:35 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:35 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:35 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:35 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:35 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:35 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:35 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:41 - NOTE : Start Processing Annotations
+2010/11/27 12:01:41 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:01:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:41 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:41 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:41 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:47 - NOTE : Start Processing Annotations
+2010/11/27 12:01:47 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:01:47 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:47 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:47 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:47 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:47 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:47 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:47 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:47 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:47 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:47 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:47 - NOTE : Finished Processing Mocks
+2010/11/27 12:01:54 - NOTE : Start Processing Annotations
+2010/11/27 12:01:54 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:01:54 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:54 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:54 - NOTE : Found 2 classes to mock
+2010/11/27 12:01:54 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:54 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:01:54 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:01:54 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:54 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:01:54 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:54 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:01:54 - NOTE : Finished Processing Mocks
+2010/11/27 12:02:25 - NOTE : Start Processing Annotations
+2010/11/27 12:02:25 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:02:25 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:02:25 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:02:25 - NOTE : Found 2 classes to mock
+2010/11/27 12:02:25 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:02:25 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:02:25 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:02:25 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:02:25 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:02:25 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:02:25 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:02:25 - NOTE : Finished Processing Mocks
+2010/11/27 12:03:09 - NOTE : Start Processing Annotations
+2010/11/27 12:03:09 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:03:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:09 - NOTE : Found 2 classes to mock
+2010/11/27 12:03:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:09 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:03:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:03:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:03:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:03:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:03:09 - NOTE : Finished Processing Mocks
+2010/11/27 12:03:41 - NOTE : Start Processing Annotations
+2010/11/27 12:03:41 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:03:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:41 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:41 - NOTE : Found 2 classes to mock
+2010/11/27 12:03:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:41 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:41 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:03:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:03:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:03:41 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:03:41 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:03:41 - NOTE : Finished Processing Mocks
+2010/11/27 12:03:51 - NOTE : Start Processing Annotations
+2010/11/27 12:03:51 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:03:51 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:51 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:51 - NOTE : Found 2 classes to mock
+2010/11/27 12:03:51 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:51 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:03:51 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:03:51 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:03:51 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:03:51 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:03:51 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:03:51 - NOTE : Finished Processing Mocks
+2010/11/27 12:04:10 - NOTE : Start Processing Annotations
+2010/11/27 12:04:10 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:04:10 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:10 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:10 - NOTE : Found 2 classes to mock
+2010/11/27 12:04:10 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:10 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:10 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:04:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:04:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:04:10 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:04:10 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:04:10 - NOTE : Finished Processing Mocks
+2010/11/27 12:04:40 - NOTE : Start Processing Annotations
+2010/11/27 12:04:40 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:04:40 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:40 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:40 - NOTE : Found 2 classes to mock
+2010/11/27 12:04:40 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:40 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:04:40 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:04:40 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:04:40 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:04:40 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:04:40 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:04:40 - NOTE : Finished Processing Mocks
+2010/11/27 12:05:12 - NOTE : Start Processing Annotations
+2010/11/27 12:05:12 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:05:12 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:05:12 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:05:12 - NOTE : Found 2 classes to mock
+2010/11/27 12:05:12 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:05:12 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:05:12 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:05:12 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:05:12 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:05:12 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:05:12 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:05:12 - NOTE : Finished Processing Mocks
+2010/11/27 12:07:00 - NOTE : Start Processing Annotations
+2010/11/27 12:07:00 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:07:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:00 - NOTE : Found 2 classes to mock
+2010/11/27 12:07:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:00 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:07:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:07:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:07:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:07:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:07:00 - NOTE : Finished Processing Mocks
+2010/11/27 12:07:30 - NOTE : Start Processing Annotations
+2010/11/27 12:07:30 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:07:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:30 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:30 - NOTE : Found 2 classes to mock
+2010/11/27 12:07:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:30 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:07:30 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:07:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:07:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:07:30 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:07:30 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:07:30 - NOTE : Finished Processing Mocks
+2010/11/27 12:11:25 - NOTE : Start Processing Annotations
+2010/11/27 12:11:25 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:11:25 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:25 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:25 - NOTE : Found 2 classes to mock
+2010/11/27 12:11:25 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:25 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:25 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:11:25 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:11:25 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:11:25 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:11:25 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:11:25 - NOTE : Finished Processing Mocks
+2010/11/27 12:11:40 - NOTE : Start Processing Annotations
+2010/11/27 12:11:40 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:11:40 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:40 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:40 - NOTE : Found 2 classes to mock
+2010/11/27 12:11:40 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:40 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:11:40 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:11:40 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:11:40 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:11:40 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:11:40 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:11:40 - NOTE : Finished Processing Mocks
+2010/11/27 12:12:24 - NOTE : Start Processing Annotations
+2010/11/27 12:12:24 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:12:24 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:12:24 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:12:24 - NOTE : Found 2 classes to mock
+2010/11/27 12:12:24 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:12:24 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:12:24 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:12:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:12:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:12:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:12:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:12:24 - NOTE : Finished Processing Mocks
+2010/11/27 12:13:15 - NOTE : Start Processing Annotations
+2010/11/27 12:13:15 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:13:15 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:15 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:15 - NOTE : Found 2 classes to mock
+2010/11/27 12:13:15 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:15 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:15 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:13:15 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:15 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:15 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:15 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:15 - NOTE : Finished Processing Mocks
+2010/11/27 12:13:22 - NOTE : Start Processing Annotations
+2010/11/27 12:13:22 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:13:22 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:22 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:22 - NOTE : Found 2 classes to mock
+2010/11/27 12:13:22 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:22 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:22 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:13:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:22 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:22 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:22 - NOTE : Finished Processing Mocks
+2010/11/27 12:13:43 - NOTE : Start Processing Annotations
+2010/11/27 12:13:43 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:13:43 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:43 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:43 - NOTE : Found 2 classes to mock
+2010/11/27 12:13:43 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:43 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:43 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:13:43 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:43 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:43 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:43 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:43 - NOTE : Finished Processing Mocks
+2010/11/27 12:13:46 - NOTE : Start Processing Annotations
+2010/11/27 12:13:46 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:13:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:46 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:46 - NOTE : Found 2 classes to mock
+2010/11/27 12:13:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:46 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:13:46 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:13:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:13:46 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:46 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:13:46 - NOTE : Finished Processing Mocks
+2010/11/27 12:14:15 - NOTE : Start Processing Annotations
+2010/11/27 12:14:15 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:14:15 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:15 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:15 - NOTE : Found 2 classes to mock
+2010/11/27 12:14:15 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:15 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:15 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:14:15 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:14:15 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:14:15 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:14:15 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:14:15 - NOTE : Finished Processing Mocks
+2010/11/27 12:14:21 - NOTE : Start Processing Annotations
+2010/11/27 12:14:21 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:14:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:21 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:21 - NOTE : Found 2 classes to mock
+2010/11/27 12:14:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:21 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:14:21 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:14:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:14:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:14:21 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:14:21 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:14:21 - NOTE : Finished Processing Mocks
+2010/11/27 12:15:09 - NOTE : Start Processing Annotations
+2010/11/27 12:15:09 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:15:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:15:09 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:15:09 - NOTE : Found 2 classes to mock
+2010/11/27 12:15:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:15:09 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:15:09 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:15:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:15:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:15:09 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:15:09 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:15:09 - NOTE : Finished Processing Mocks
+2010/11/27 12:17:11 - NOTE : Start Processing Annotations
+2010/11/27 12:17:11 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:17:11 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:11 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:11 - NOTE : Found 2 classes to mock
+2010/11/27 12:17:11 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:11 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:11 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:17:11 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:17:11 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:17:11 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:17:11 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:17:11 - NOTE : Finished Processing Mocks
+2010/11/27 12:17:19 - NOTE : Start Processing Annotations
+2010/11/27 12:17:19 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:17:19 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:19 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:19 - NOTE : Found 2 classes to mock
+2010/11/27 12:17:19 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:19 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:19 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:17:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:17:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:17:19 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:17:19 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:17:19 - NOTE : Finished Processing Mocks
+2010/11/27 12:17:55 - NOTE : Start Processing Annotations
+2010/11/27 12:17:55 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:17:55 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:55 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:55 - NOTE : Found 2 classes to mock
+2010/11/27 12:17:55 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:55 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:17:55 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:17:55 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:17:55 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:17:55 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:17:55 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:17:55 - NOTE : Finished Processing Mocks
+2010/11/27 12:18:06 - NOTE : Start Processing Annotations
+2010/11/27 12:18:06 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:18:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:18:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:18:06 - NOTE : Found 2 classes to mock
+2010/11/27 12:18:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:18:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:18:06 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:18:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:18:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:18:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:18:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:18:06 - NOTE : Finished Processing Mocks
+2010/11/27 12:19:24 - NOTE : Start Processing Annotations
+2010/11/27 12:19:24 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:19:24 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:24 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:24 - NOTE : Found 2 classes to mock
+2010/11/27 12:19:24 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:24 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:24 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:19:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:19:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:19:24 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:19:24 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:19:24 - NOTE : Finished Processing Mocks
+2010/11/27 12:19:56 - NOTE : Start Processing Annotations
+2010/11/27 12:19:56 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 12:19:56 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:56 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:56 - NOTE : Found 2 classes to mock
+2010/11/27 12:19:56 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:56 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:19:56 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:19:56 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:19:56 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:19:56 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:19:56 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:19:56 - NOTE : Finished Processing Mocks
+2010/11/27 12:23:06 - NOTE : Start Processing Annotations
+2010/11/27 12:23:06 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 12:23:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:23:06 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:23:06 - NOTE : Found 2 classes to mock
+2010/11/27 12:23:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:23:06 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 12:23:06 - NOTE : Found 2 mocked classes to save
+2010/11/27 12:23:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:23:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 12:23:06 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:23:06 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 12:23:06 - NOTE : Finished Processing Mocks
+2010/11/27 13:05:00 - NOTE : Start Processing Annotations
+2010/11/27 13:05:00 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 13:05:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:05:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:05:00 - NOTE : Found 2 classes to mock
+2010/11/27 13:05:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:05:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:05:00 - NOTE : Found 2 mocked classes to save
+2010/11/27 13:05:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 13:05:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 13:05:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 13:05:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 13:05:00 - NOTE : Finished Processing Mocks
+2010/11/27 13:36:49 - NOTE : Start Processing Annotations
+2010/11/27 13:36:49 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 13:36:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:36:49 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:36:49 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:178)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:36:49 - NOTE : Known Classpath: 
+2010/11/27 13:36:49 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:36:49 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:36:49 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:36:49 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:36:49 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:178)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:36:49 - NOTE : Known Classpath: 
+2010/11/27 13:36:49 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:36:49 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:36:49 - NOTE : Found 0 classes to mock
+2010/11/27 13:36:49 - NOTE : Found 0 mocked classes to save
+2010/11/27 13:36:49 - NOTE : Finished Processing Mocks
+2010/11/27 13:37:26 - NOTE : Start Processing Annotations
+2010/11/27 13:37:26 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 13:37:26 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:26 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:26 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:37:26 - NOTE : Known Classpath: 
+2010/11/27 13:37:26 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:37:26 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:37:26 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:26 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:26 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:37:26 - NOTE : Known Classpath: 
+2010/11/27 13:37:26 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:37:26 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:37:26 - NOTE : Found 0 classes to mock
+2010/11/27 13:37:26 - NOTE : Found 0 mocked classes to save
+2010/11/27 13:37:26 - NOTE : Finished Processing Mocks
+2010/11/27 13:37:36 - NOTE : Start Processing Annotations
+2010/11/27 13:37:36 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 13:37:36 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:36 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:36 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:321)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:134)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:265)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:193)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:37:36 - NOTE : Known Classpath: 
+2010/11/27 13:37:36 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:37:36 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:37:36 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:36 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:36 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.compile(IncrementalImageBuilder.java:321)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.IncrementalImageBuilder.build(IncrementalImageBuilder.java:134)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildDeltas(JavaBuilder.java:265)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:193)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:37:36 - NOTE : Known Classpath: 
+2010/11/27 13:37:36 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:37:36 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:37:36 - NOTE : Found 0 classes to mock
+2010/11/27 13:37:36 - NOTE : Found 0 mocked classes to save
+2010/11/27 13:37:36 - NOTE : Finished Processing Mocks
+2010/11/27 13:37:42 - NOTE : Start Processing Annotations
+2010/11/27 13:37:42 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 13:37:42 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:42 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:42 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:37:42 - NOTE : Known Classpath: 
+2010/11/27 13:37:42 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:37:42 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:37:42 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:42 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:37:42 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:37:42 - NOTE : Known Classpath: 
+2010/11/27 13:37:42 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:37:42 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:37:42 - NOTE : Found 0 classes to mock
+2010/11/27 13:37:42 - NOTE : Found 0 mocked classes to save
+2010/11/27 13:37:42 - NOTE : Finished Processing Mocks
+2010/11/27 13:39:12 - NOTE : Start Processing Annotations
+2010/11/27 13:39:12 - NOTE : Processing [public void testMockDroid2() , public void testMockDroid1() ]
+2010/11/27 13:39:12 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:39:12 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:39:12 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:39:12 - NOTE : Known Classpath: 
+2010/11/27 13:39:12 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:39:12 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:39:12 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:39:12 - ERROR : Could not find com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:39:12 - ERROR : java.lang.ClassNotFoundException: com.polysfactory.roboguice_and_mock.impl.Droid
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:202)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:190)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:248)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at com.google.android.testing.mocking.UsesMocksProcessor.findClassesToMock(UsesMocksProcessor.java:148)
+	at com.google.android.testing.mocking.UsesMocksProcessor.getClassesToMock(UsesMocksProcessor.java:115)
+	at com.google.android.testing.mocking.UsesMocksProcessor.process(UsesMocksProcessor.java:74)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.handleProcessor(RoundDispatcher.java:139)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.RoundDispatcher.round(RoundDispatcher.java:121)
+	at org.eclipse.jdt.internal.compiler.apt.dispatch.BaseAnnotationProcessorManager.processAnnotations(BaseAnnotationProcessorManager.java:159)
+	at org.eclipse.jdt.internal.apt.pluggable.core.dispatch.IdeAnnotationProcessorManager.processAnnotations(IdeAnnotationProcessorManager.java:134)
+	at org.eclipse.jdt.internal.compiler.Compiler.processAnnotations(Compiler.java:809)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:428)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:364)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:301)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:627)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:170)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:201)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:253)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:256)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:309)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:341)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:140)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:238)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+2010/11/27 13:39:12 - NOTE : Known Classpath: 
+2010/11/27 13:39:12 - NOTE : file:/Users/horikawa/Dropbox/Private/android_workspace/RoboguiceAndMockTest/libs/AndroidMockGenerator.jar
+2010/11/27 13:39:12 - NOTE : file:/Developer/android-sdk-mac_86/platforms/android-4/android.jar
+2010/11/27 13:39:12 - NOTE : Found 0 classes to mock
+2010/11/27 13:39:12 - NOTE : Found 0 mocked classes to save
+2010/11/27 13:39:12 - NOTE : Finished Processing Mocks
+2010/11/27 13:41:00 - NOTE : Start Processing Annotations
+2010/11/27 13:41:00 - NOTE : Processing [public void testMockDroid1() , public void testMockDroid2() ]
+2010/11/27 13:41:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:41:00 - NOTE : Adding Class to Mocking List: com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:41:00 - NOTE : Found 2 classes to mock
+2010/11/27 13:41:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:41:00 - NOTE : Mocking class com.polysfactory.roboguice_and_mock.impl.Droid
+2010/11/27 13:41:00 - NOTE : Found 2 mocked classes to save
+2010/11/27 13:41:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 13:41:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateInterface
+2010/11/27 13:41:00 - NOTE : Saving genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 13:41:00 - NOTE : Saving via Eclipse genmocks.com.polysfactory.roboguice_and_mock.impl.DroidDelegateSubclass
+2010/11/27 13:41:00 - NOTE : Finished Processing Mocks
